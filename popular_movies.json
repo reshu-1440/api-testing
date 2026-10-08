@@ -1,0 +1,208 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+    "genre_ids": [
+      878,
+      28,
+      12
+    ],
+    "id": 969681,
+    "title": "Spider-Man: Brand New Day",
+    "original_language": "en",
+    "original_title": "Spider-Man: Brand New Day",
+    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+    "popularity": 927.1918,
+    "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+    "release_date": "2026-07-29",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.294,
+    "vote_count": 4271
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+    "genre_ids": [
+      27,
+      878,
+      12
+    ],
+    "id": 1423191,
+    "title": "Resident Evil",
+    "original_language": "en",
+    "original_title": "Resident Evil",
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "popularity": 957.9474,
+    "poster_path": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+    "release_date": "2026-09-16",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.32,
+    "vote_count": 802
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
+    "genre_ids": [
+      16,
+      28,
+      12,
+      14
+    ],
+    "id": 1599191,
+    "title": "Renegade Immortal: Battle of the Immortal Slayer",
+    "original_language": "zh",
+    "original_title": "仙逆剧场版：弑仙之战",
+    "overview": "Trapped in a fatal pursuit within the Celestial Realm of Thunder, Wang Lin faces his ultimate crisis. Watch the underdog defy the odds, flip the script in a world-shaking counterattack, and achieve the ultimate, magnificent feat: SLAYING A CELESTIAL.",
+    "popularity": 268.346,
+    "poster_path": "/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
+    "release_date": "2026-10-01",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 14
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
+    "genre_ids": [
+      12,
+      28,
+      14
+    ],
+    "id": 1368337,
+    "title": "The Odyssey",
+    "original_language": "en",
+    "original_title": "The Odyssey",
+    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "popularity": 339.8777,
+    "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+    "release_date": "2026-07-15",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 4048
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 1291595,
+    "title": "Insidious: Out of the Further",
+    "original_language": "en",
+    "original_title": "Insidious: Out of the Further",
+    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, the purgatorial realm of lost souls at the heart of the Insidious universe. When something evil comes after her, Gemma discovers an ability that changes everything: she doesn't just enter The Further, she can bring what lives there back to the real world. Once the demons realize her power, our world becomes their playground.",
+    "popularity": 286.9072,
+    "poster_path": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+    "release_date": "2026-08-19",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.547,
+    "vote_count": 379
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1228834,
+    "title": "The Fix",
+    "original_language": "en",
+    "original_title": "The Fix",
+    "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
+    "popularity": 276.4334,
+    "poster_path": "/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
+    "release_date": "2026-09-10",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.833,
+    "vote_count": 51
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "id": 1377237,
+    "title": "Runner",
+    "original_language": "en",
+    "original_title": "Runner",
+    "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+    "popularity": 265.9618,
+    "poster_path": "/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+    "release_date": "2026-09-07",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 418
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
+    "genre_ids": [
+      878,
+      18,
+      53
+    ],
+    "id": 1751701,
+    "title": "After Impact",
+    "original_language": "en",
+    "original_title": "After Impact",
+    "overview": "After losing his father, Ethan Nichols inherits one of the largest greenhouses in the country, just as the world faces a devastating threat from an approaching asteroid. As society begins to unravel, Ethan grapples with personal betrayal, overwhelming loneliness, and the growing fear that survival may come at the cost of his humanity. Seeking refuge in his family’s bunker, Ethan endures the harsh aftermath of the impact, wrestling with physical injury and emotional despair. When a faint voice crackles over his radio, Ethan discovers he's not as alone as he believed.",
+    "popularity": 214.8669,
+    "poster_path": "/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
+    "release_date": "2026-09-15",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 24
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
+    "genre_ids": [
+      53
+    ],
+    "id": 1101412,
+    "title": "Fall 2: Deadpoint",
+    "original_language": "en",
+    "original_title": "Fall 2: Deadpoint",
+    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+    "popularity": 209.0382,
+    "poster_path": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+    "release_date": "2026-09-01",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.166,
+    "vote_count": 211
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+    "genre_ids": [
+      35,
+      12,
+      10751
+    ],
+    "id": 1204680,
+    "title": "Coyote vs. Acme",
+    "original_language": "en",
+    "original_title": "Coyote vs. Acme",
+    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+    "popularity": 201.6415,
+    "poster_path": "/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+    "release_date": "2026-08-17",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.514,
+    "vote_count": 693
+  }
+]
